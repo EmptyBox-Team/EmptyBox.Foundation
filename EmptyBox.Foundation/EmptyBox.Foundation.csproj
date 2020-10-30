@@ -4,6 +4,14 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <LangVersion>8.0</LangVersion>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.0.0</Version>
+    <Authors>EmptyBox Team</Authors>
+    <Company>EmptyBox Team</Company>
+    <PackageProjectUrl>https://github.com/EmptyBox-Team/EmptyBox.Foundation</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/EmptyBox-Team/EmptyBox.Foundation</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageIcon></PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
